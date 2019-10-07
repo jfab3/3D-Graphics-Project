@@ -19,4 +19,7 @@ The project was developed using C++ and OpenGL in Xcode.
 
 **Project demonstration**   
 Below are short videos showcasing some of the features implemented in the project.  
-![](gif1.gif)
+![](Toggle.gif)  
+![](Turning.gif)  
+![](DynamicAngles.gif)  
+![](Chitty.gif)  
