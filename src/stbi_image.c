@@ -57,8 +57,6 @@
                                                  David Woo
                                                  
 
- If your name should be here but isn't, let Sean know.
-
 */
 
 #ifndef STBI_INCLUDE_STB_IMAGE_H
